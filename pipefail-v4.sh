@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#2
+#3
 set -e
 set -u
 set -o pipefail
